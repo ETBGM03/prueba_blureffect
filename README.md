@@ -1,4 +1,4 @@
-# Prueba Técnico || BlurEffect
+# Prueba Técnica || BlurEffect
 
 ### Notas
 
