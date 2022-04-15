@@ -75,7 +75,7 @@ export const CrearReceta = () => {
       pasos: [
         {
           id: uuid(),
-          pasos: crearReceta.pasos,
+          contenido: crearReceta.pasos,
         },
       ],
     };
