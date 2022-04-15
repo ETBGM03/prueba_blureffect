@@ -53,7 +53,7 @@ const RecetaDetalle = () => {
               Pasos
             </Typography>
             {receta.pasos.map((paso) => (
-              <Typography variant="body1">{paso.contenido}</Typography>
+              <Typography variant="body1">{paso.pasos}</Typography>
             ))}
           </CardContent>
         </Card>
